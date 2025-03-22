@@ -1,5 +1,5 @@
 # ====== Configurable Variables ======
-PROJECT_NAME = cTemplate
+PROJECT_NAME = cDSLib
 
 #Directories
 SRC_DIR = src
